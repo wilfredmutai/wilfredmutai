@@ -1,8 +1,14 @@
-Hi there 👋
-<br>
-I'm Wilfred Mutai
-<br>
-A security researcher and student
-<br>
-<h1>Your Computer is my other Computer<h1/>
+## Who am I?
+
+- Web developer :spider_web: 
+- InfoSec maniac :computer:
+- Student :books: 
+
+---
+# :bulb: 
+#### There is always a way in!!!
+
+
+
+---
 
