@@ -1,14 +1,7 @@
-## Who am I?
+### Hey there! I'm Wilfred Mutai.
+#### ⚡ InfoSec || Web Dev
 
-- Web developer :spider_web: 
-- InfoSec maniac :computer:
-- Student :books: 
+![wilfredmutai's github stats](https://github-readme-stats.vercel.app/api?username=wilfredmutai&theme=react&show_icons=true?&count_private=true)
 
----
-# :bulb: 
-#### There is always a way in!!!
-
-
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfredmutai&langs_count=10&layout=compact&theme=react)
 
